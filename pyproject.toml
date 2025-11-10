@@ -5,5 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "futu-api>=9.4.5408",
     "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
 ]
